@@ -1,0 +1,8 @@
+INFO: December 03, 2018 [01:48:45] 4.0.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+INFO: December 03, 2018 [01:48:46] ERROR::SHADER_COMPILATION_ERROR of type: VERTEX
+Vertex shader failed to compile with the following errors:
+ERROR: 0:32: error(#132) Syntax error: ";" parse error
+ERROR: error(#273) 1 compilation errors.  No code generated
+
+
+ -- --------------------------------------------------- -- 

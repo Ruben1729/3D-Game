@@ -1,0 +1,8 @@
+INFO: December 03, 2018 [01:46:27] 4.0.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+INFO: December 03, 2018 [01:46:28] ERROR::SHADER_COMPILATION_ERROR of type: VERTEX
+Vertex shader failed to compile with the following errors:
+ERROR: 0:27: error(#146) "[" field selection out of range: '3' matrix '0' row_size(cc) '1' nominal size '3', string 'in highp 3-component vector of ivec3'
+ERROR: error(#273) 1 compilation errors.  No code generated
+
+
+ -- --------------------------------------------------- -- 

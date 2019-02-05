@@ -1,0 +1,11 @@
+package input;
+
+import org.lwjgl.glfw.GLFW;
+
+public class Keybinds {
+	
+	public static int PLYR_FORWARD = GLFW.GLFW_KEY_W, PLYR_BACKWARD = GLFW.GLFW_KEY_S, PLYR_LEFT = GLFW.GLFW_KEY_A, PLYR_RIGHT = GLFW.GLFW_KEY_D;//MOVEMENT
+	public static int PLYR_ATTACK1, PLYR_ATTACK2, PLYR_ATTACK3, PLYR_ATTACK4;//ACTIONS
+	public static int PLYR_INTERACT;//INTERACTING WITH UNIVERSE
+	
+}
